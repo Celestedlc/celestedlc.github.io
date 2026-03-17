@@ -12,6 +12,19 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^6.0.3"
-  }
+    "astro": "^6.0.5"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celestedlc/celestedlc.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celestedlc/celestedlc.github.io/issues"
+  },
+  "homepage": "https://github.com/Celestedlc/celestedlc.github.io#readme"
 }
