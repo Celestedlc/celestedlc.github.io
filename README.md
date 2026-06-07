@@ -1,11 +1,8 @@
 # celestedlc.github.io
 
-This is a personal website made as a portfolio of wy work, and also as a learning experience on front & backend web developing.
+This is my independent development portfolio. This platform serves as a showcase of my work.
 
 
 
 
 
-
-
-AI free website
